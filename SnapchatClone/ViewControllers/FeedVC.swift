@@ -69,8 +69,6 @@ class FeedVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
                 }
             }
         }
-        
-        
     }
     
     func getInfo() {
